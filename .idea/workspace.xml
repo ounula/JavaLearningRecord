@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67bd12fd-d9de-4b50-9c32-227cba5865d2" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLearningRecord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mylerarning/javabase/oo/AbstractExpClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mylerarning/javabase/practice/冒泡.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mylerarning/javabase/practice/选择.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Java.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mylerarning/javabase/oo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mylerarning/javabase/oo/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nPrx4xAhTtcaxrQLxKmAd7Giib" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloIdea.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Son.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestIdea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableDefine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.冒泡.executor&quot;: &quot;Run&quot;,
+    &quot;Application.选择.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ObjectOriented">
+    <configuration name="冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mylerarning.javabase.practice.冒泡" />
+      <module name="JavaLearningRecord" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mylerarning.javabase.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectOriented" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mylerarning.javabase.oo.ObjectOriented" />
+      <module name="JavaLearningRecord" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mylerarning.javabase.oo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mylerarning.javabase.oo.Son" />
+      <module name="JavaLearningRecord" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mylerarning.javabase.oo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mylerarning.javabase.oo.Test" />
+      <module name="JavaLearningRecord" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mylerarning.javabase.oo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="选择" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.mylerarning.javabase.practice.选择" />
+      <module name="JavaLearningRecord" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.mylerarning.javabase.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.冒泡" />
+        <item itemvalue="Application.Son" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ObjectOriented" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67bd12fd-d9de-4b50-9c32-227cba5865d2" name="Changes" comment="" />
+      <created>1728885796703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728885796703</updated>
+      <workItem from="1728885797803" duration="8349000" />
+      <workItem from="1728952755736" duration="8936000" />
+      <workItem from="1729038634957" duration="597000" />
+      <workItem from="1729040350370" duration="3037000" />
+      <workItem from="1729125749932" duration="11541000" />
+      <workItem from="1729211182487" duration="621000" />
+      <workItem from="1729384722612" duration="2503000" />
+      <workItem from="1729471159530" duration="1196000" />
+      <workItem from="1729556575814" duration="6897000" />
+      <workItem from="1729644021516" duration="6644000" />
+      <workItem from="1729730458295" duration="1362000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1729157732207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729157732207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mylerarning/javabase/oo/Person.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="a" language="JAVA" />
+        <watch expression="a" language="JAVA" />
+        <watch expression="a" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

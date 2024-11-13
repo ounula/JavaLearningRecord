@@ -1,4 +1,4 @@
-package src.com.mylerarning.javabase;
+package src.com.mylearning.javabase;
 
 import java.util.Scanner;
 
